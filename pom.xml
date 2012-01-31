@@ -3,12 +3,12 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>fr.xebia.demo.petclinic-7</groupId>
   <artifactId>xebia-petclinic-lite</artifactId>
-  <version>1.0.4</version>
+  <version>1.0.5-SNAPSHOT</version>
   <packaging>war</packaging>
   <name>xebia-petclinic-lite</name>
   <scm>
     <connection>scm:git:git://github.com/xebia-guest/xebia-petclinic-lite-7</connection>
-    <developerConnection>scm:git:https://xebia-guest@github.com/xebia-guest/xebia-petclinic-lite-7.git</developerConnection>
+    <developerConnection>scm:git:https://xebia-guest:xebia42.*@github.com/xebia-guest/xebia-petclinic-lite-7.git</developerConnection>
   </scm>
   <distributionManagement>
     <repository>
